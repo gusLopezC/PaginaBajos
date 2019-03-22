@@ -120,7 +120,7 @@
 
       </div>
       <div class="container-counter">
-        <div class="section-option col-sm-6" style=" background: rgb(255, 255, 255, 0.8);padding: 161px; ">
+        <div class="section-option col-sm-6" style=" background: rgb(255, 255, 255, 0.8);padding: 5%; ">
 
           <h2>BIENVENIDOS A
             <br>
@@ -131,7 +131,7 @@
             e instituciones públicas y privadas.
           </p>
         </div>
-        <div class="section-option col-sm-6" style=" background: rgb(175, 199, 244, 0.8);padding: 214px; ">
+        <div class="section-option col-sm-6" style=" background: rgb(175, 199, 244, 0.8);padding: 7%; ">
           <h2>
             <span>MISIÓN</span>
           </h2>
@@ -141,7 +141,7 @@
 
         <div class="col-sm-4" style=" background: rgb(12, 46, 138 , 0.8); ">
           <div class="counter">
-            <h1 class="counter-number">
+            <h1 class="counter-number"><br>
               <div id="number1" class="counter-timer" data-from="1950" data-to="1981">1981</div>
             </h1>
             <h1 class="counter-title">Fecha de fundación
@@ -152,7 +152,7 @@
         </div>
         <div class="col-sm-4" style=" background: rgb(255, 255, 255, 0.8); ">
           <div class="counter">
-            <h1 class="counter-number">
+            <h1 class="counter-number"><br>
               <div id="number2" class="counter-timer" style="color: #0c2e8a" data-from="0" data-to="25">25</div>
             </h1>
             <h1 class="counter-title" style="color: #0c2e8a;">Marcas han confiado en nosotros</h1>
@@ -160,7 +160,7 @@
         </div>
         <div class="col-sm-4" style=" background: rgb(12, 46, 138 , 0.8); ">
           <div class="counter">
-            <h1 class="counter-number">
+            <h1 class="counter-number"><br>
               <div id="number3" class="counter-timer" data-from="0" data-to="38">38</div>
             </h1>
             <h1 class="counter-title">Años ofreciendo las mejores marcas</h1>
@@ -281,6 +281,8 @@
       </div>
     </section>
     <!-- #clients -->
+
+    <object style="border:0; height: 450px; width: 100%;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.8507829518044!2d-100.3996971646085!3d20.54645986275785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d3450158e4c107%3A0x547e57e3f1c0931e!2sAv+Candiles+309%2C+Valle+Real+Residencial%2C+Candiles%2C+Qro.!5e0!3m2!1ses-419!2smx!4v1550770885057"></object>
 
     <!--==========================
       Contact Section
