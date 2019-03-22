@@ -186,9 +186,9 @@
           <div class="col-sm-4"s>
             <div class="demo-3">
               <figure>
-                <img src="/img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" alt="" />
+                <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" alt="" />
                 <figcaption >
-                    <img src="/img/fondos/FOTO_SOPORTE_TECNICO.jpg" alt=""  style="opacity: .9;"/>
+                    <img src="img/fondos/FOTO_SOPORTE_TECNICO.jpg" alt=""  style="opacity: .9;"/>
                       <h2 style="color: #000">Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus necesidades.</h2>
                   </figcaption>
               </figure>
@@ -199,7 +199,7 @@
             <div class="demo-3">
               <div>
                 <figure>
-                  <img src="/img/fondos/FOTO_SOPORTE_TECNICO.jpg" alt="" />
+                  <img src="img/fondos/FOTO_SOPORTE_TECNICO.jpg" alt="" />
                   <figcaption>
                     <h2>This is a cool title!</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing edivt, sed do eiusmod tempor incididunt ut labore
@@ -214,7 +214,7 @@
             <div class="demo-3">
               <div>
                 <figure>
-                  <img src="/img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" alt="" />
+                  <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" alt="" />
                   <figcaption>
                     <h2>This is a cool title!</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing edivt, sed do eiusmod tempor incididunt ut labore
@@ -235,24 +235,23 @@
           </div>
 
           <div class="col-sm-3 marcas wow fadeInUp">
-            <img src="/img/marcas/canon.png" alt="" class="img-responsive">
+            <img src="img/marcas/canon.png" alt="" class="img-responsive">
           </div>
           <div class="col-sm-3 marcas wow fadeInUp">
-            <img src="/img/marcas/katun.jpg" alt="" class="img-responsive">
+            <img src="img/marcas/katun.jpg" alt="" class="img-responsive">
           </div>
           <div class="col-sm-3 marcas wow fadeInUp">
-            <img src="/img/marcas/kyocera.jpg" alt="" class="img-responsive">
+            <img src="img/marcas/kyocera.jpg" alt="" class="img-responsive">
           </div>
           <div class="col-sm-3 marcas wow fadeInUp">
-            <img src="/img/marcas/OKI.jpg" alt="" class="img-responsive">
+            <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
           </div>
 
         </div>
 
       </div>
     </section>
-    <!-- #services -->
-
+    <!-- #services -->          
     <!--==========================
       Clients Section
     ============================-->
@@ -263,20 +262,21 @@
             <span> CLIENTES</span>
           </h2>
         </div>
-        <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-2.png" alt="">
-          <img src="img/clients/client-3.png" alt="">
-          <img src="img/clients/client-4.png" alt="">
-          <img src="img/clients/client-6.png" alt="">
-          <img src="img/clients/client-7.jpg" alt="">
-        </div>
-        <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-8.png" alt="">
-          <img src="img/clients/client-10.png" alt="">
-          <img src="img/clients/client-11.jpg" alt="">
-          <img src="img/clients/client-13.png" alt="">
-          <img src="img/clients/client-14.png" alt="">
-        </div>
+          <div class="row">
+          <div class="col-sm-1"></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-1.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-2.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-3.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-4.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-6.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-1"></div>
+          <div class="col-sm-1"></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-7.jpg" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-8.png" class="img-responsive "   alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-10.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-13.png" class="img-responsive " alt=""></div>
+          <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-14.png" class="img-responsive " alt=""></div>
+          </div>
 
       </div>
     </section>
