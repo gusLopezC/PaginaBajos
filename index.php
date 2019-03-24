@@ -25,16 +25,9 @@
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-
+  <link rel="stylesheet" href="https://cdn.lineicons.com/1.0.1/LineIcons.min.css">
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-    Theme Name: Reveal
-    Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 </head>
 
 <body id="body">
@@ -111,7 +104,6 @@
     ============================-->
     <section id="about" class="wow fadeInUp">
 
-
       <div class="section-header">
         <h2>ALTA
           <span> TECNOLOGÍA</span> A SU SERVICIO</h2>
@@ -120,18 +112,18 @@
 
       </div>
       <div class="container-counter">
-        <div class="section-option col-sm-6" style=" background: rgb(255, 255, 255, 0.8);padding: 5%; ">
+        <div class="section-option col-sm-6" style=" background: rgb(255, 255, 255, 0.8);padding: 10.5%; ">
 
           <h2>BIENVENIDOS A
             <br>
-            <span>MICROPROCESAMIENTOS</span>
+            <span>MICRO<br>PROCESAMIENTOS</span>
           </h2>
           <p>Somos una compañia mexicana con más de 35 años de experiencia,dedicada a la comercialización,servicio e instalación
             de los mejores productos de alta tecnología en comunicaciones y procesamiento de datos para oficinas,corportivos
             e instituciones públicas y privadas.
           </p>
         </div>
-        <div class="section-option col-sm-6" style=" background: rgb(175, 199, 244, 0.8);padding: 7%; ">
+        <div class="section-option col-sm-6" style=" background: rgb(175, 199, 244, 0.8);padding: 10.5%; ">
           <h2>
             <span>MISIÓN</span>
           </h2>
@@ -226,12 +218,11 @@
             </div>
           </div>
         </div>
+        <br><br><br>
         <div class="row">
 
           <div class="col-sm-12 wow fadeInUp">
-            <p>
-              <b>Somos distribuidores autorizados</b>
-            </p>
+            <h5>Distribuidor Autorizado</h5>
           </div>
 
           <div class="col-sm-3 marcas wow fadeInUp">
@@ -246,12 +237,11 @@
           <div class="col-sm-3 marcas wow fadeInUp">
             <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
           </div>
-
         </div>
-
+        <br><br><br>
       </div>
     </section>
-    <!-- #services -->          
+    <!-- #services -->
     <!--==========================
       Clients Section
     ============================-->
@@ -262,7 +252,8 @@
             <span> CLIENTES</span>
           </h2>
         </div>
-          <div class="row">
+        <div class="areaclientes">
+        <div class="row ">
           <div class="col-sm-1"></div>
           <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-1.png" class="img-responsive " alt=""></div>
           <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-2.png" class="img-responsive " alt=""></div>
@@ -277,17 +268,116 @@
           <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-13.png" class="img-responsive " alt=""></div>
           <div class="col-sm-2 wow fadeInUp"><img src="img/clients/client-14.png" class="img-responsive " alt=""></div>
           </div>
+        </div>
+
+        <div class="areaclientesmobil">
+        <div class="row">
+        <div class="owl-carousel clients-carousel">
+          <img src="img/clients/client-2.png" alt="">
+          <img src="img/clients/client-3.png" alt="">
+          <img src="img/clients/client-4.png" alt="">
+          <img src="img/clients/client-6.png" alt="">
+          <img src="img/clients/client-7.jpg" alt="">
+          <img src="img/clients/client-8.png" alt="">
+          <img src="img/clients/client-10.png" alt="">
+          <img src="img/clients/client-13.png" alt="">
+          <img src="img/clients/client-14.png" alt="">
+        </div>
+
+        </div>
+        </div>
+        </div>
 
       </div>
     </section>
     <!-- #clients -->
+    <section id="contact" class="wow fadeInUp">
+    <div class="section-header">
+          <h2>CONTACTANOS
+          </h2>
+        </div>
+    <div class="container">
+    <div class="row">
+          <div class="col-lg-9 col-md-9 col-xs-12">
+            <div class="contact-block">
+              <form id="contactForm" novalidate="true">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <input type="text" class="form-control" id="name" name="name" placeholder="Nombre o Compañia" required="" data-error="Ingresa tu nombre">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <input type="text" placeholder="Email" id="email" class="form-control" name="name" required="" data-error="Ingresa tu email">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-md-12">
+                    <div class="form-group">
+                      <input type="text" placeholder="Asunto" id="msg_subject" class="form-control" required="" data-error="Ingresa tu asunto">
+                      <div class=" help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                  <div class="submit-button">
+                    <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar
+                      mensaje</button>
+                    <div id="msgSubmit" class="h3 hidden"></div>
+                    <div class="clearfix"></div>
+                  </div>
+                </div>
+            </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-3 col-xs-12">
+          <div class="contact-deatils">
 
-    <object style="border:0; height: 450px; width: 100%;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.8507829518044!2d-100.3996971646085!3d20.54645986275785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d3450158e4c107%3A0x547e57e3f1c0931e!2sAv+Candiles+309%2C+Valle+Real+Residencial%2C+Candiles%2C+Qro.!5e0!3m2!1ses-419!2smx!4v1550770885057"></object>
+            <div class="contact-info_area">
+              <div class="contact-info">
+                <i class="lni-map"></i>
+                <h5>Direccion</h5>
+                <p>Quebrada 62, Adobería, Acapulco, Gro.</p>
+              </div>
+
+              <div class="contact-info">
+                <i class="lni-star"></i>
+                <h5>E-mail</h5>
+                <p>contacto@remo.mx</p>
+              </div>
+
+              <div class="contact-info">
+                <i class="lni-phone"></i>
+                <h5>Telefono</h5>
+                <p>+52 (442) 962 2119</p>
+              </div>
+              <div class="contact-info">
+                <i class="lni-phone"></i>
+                <h5>Siguenos en nuestras redes sociales:</h5>
+              </div>
+              <div class="footer-social">
+                <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <br>
+  <br>
+    </section>
+    <object style="border:0; height: 450px; width: 100%;" data="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15274.281151587411!2d-99.9127728!3d16.8476607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4d81b0ad505a0d0!2sBajos+Servicios+de+Impresi%C3%B3n!5e0!3m2!1ses-419!2smx!4v1553363048812"></object>
 
     <!--==========================
       Contact Section
     ============================-->
-    <section id="contact" class="wow fadeInUp">
+   <footer>
       <div style=" background: rgb(2, 12, 68, 0.9)">
         <div class="container">
           <div class="row">
@@ -298,14 +388,8 @@
           </div>
         </div>
       </div>
-
-
-    </section>
-    <!-- #contact -->
-
+      </footer>
   </main>
-
-
   <a href="#" class="back-to-top">
     <i class="fa fa-chevron-up"></i>
   </a>
