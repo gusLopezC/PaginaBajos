@@ -345,7 +345,11 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu .menu-active > a {
-  color: #001D7E;
+  color: #001459;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.1em;
+  
 }
 
 .nav-menu > li {
@@ -398,7 +402,7 @@ h6 {
 }
 
 #mobile-nav-toggle i {
-  color: #555;
+  color: #8d8d8e;
 }
 
 /* Mobile Nav Styling */
@@ -409,7 +413,7 @@ h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(52, 59, 64, 0.9);
+  background: rgb(0, 29, 126 , 0.9);
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -428,9 +432,9 @@ h6 {
 
 #mobile-nav ul li a {
   color: #fff;
-  font-size: 40px;
+  font-size: 22px;
   overflow: hidden;
-  padding: 10px 22px 10px 15px;
+  padding: 16px 25px 15px 25px;
   position: relative;
   text-decoration: none;
   width: 100%;
@@ -470,7 +474,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(52, 59, 64, 0.9);
+  background: rgb(3, 28, 109, 0.9);
   display: none;
 }
 
@@ -521,18 +525,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-option {
-  margin-bottom: 30px;
+  background: rgb(255, 255, 255, 0.8);
+  min-height: 400px;
+  height:  400px;
   text-align: center;
-  margin: 0px;
+
+}
+
+.section-option-azul{
+  background: rgb(193, 204, 239, 0.8)
 }
 
 .section-option h2 {
+  margin-top: 10%;
   font-size: 28px;
   color: #727272;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
-  padding-bottom: 20px;
 }
 
 .section-option h2 span {
@@ -541,8 +551,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .section-option p {
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin-left: 15%;
+  margin-right: 10%;
+  font-size: 19px;
+  text-align: justify;
 }
 
 
@@ -660,11 +673,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 24px;
 }
 
+.services_form_title {
+  background: #001781;
+  line-height: 24px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  color: #FFFFFF;
+}
 /* Clients Section
 --------------------------------*/
 @media only screen and (max-width: 767px) {
 .areaclientes {
-  background: red;
   display: none;
 }
 }
@@ -680,7 +700,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #clients img {
   max-width: 100%;
-  opacity: 0.5;
   transition: 0.3s;
   padding: 15px 0;
 }
@@ -859,7 +878,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   .clear {
     clear: both;
   }
-
+  .submit-button{
+    text-align: center;
+  }
   .footer-social li {
     display: inline-block;
     margin-right: 12px;
@@ -1022,10 +1043,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 25px;
 }
 .marcas img{
-  height: 30px;
+  width: calc(100% - 130px);
+
 }
 
 .container-counter {
+  min-width: 100%;
   height: 100%;
   display: flex;
   justify-content: space-around;
@@ -1044,6 +1067,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   margin: 10px;
   padding: 10px;
+}
+
+.counter-fondo{
+  min-height: 350px;
+    height: 350px;
+    text-align: center;
+  background: rgb(12, 46, 138 , 0.8);
+}
+
+.counter-fondo-blanco{
+  min-height: 350px;
+    height: 350px;
+    text-align: center;
+  background: rgb(242, 244, 246, 0.6);
 }
 
 .counter .counter-timer {
@@ -1089,6 +1126,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .tablacontacto td{
   color: #fff;
+}
+
+.direct_line_num
+{
+  border-radius: 30px;
+	width: calc(100% - 130px);
+	height: 100%;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 48px;
+	color: #fff;
+	background: #278A9F;
+  white-space: nowrap;
+  text-align: center;
 }
 
 
