@@ -1171,7 +1171,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position:relative;
     width:100%;
     height: 450px;
-    overflow:hidden;
+    overflow: hidden;
     float:left;
     margin-right:0px
 }
@@ -1191,9 +1191,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin:0px 0
 }
 .demo-3 figure figcaption {
+  
     display:block;
     position:absolute;
-    z-index:5;
+    z-index: 15;
+    
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
     box-sizing:border-box
@@ -1203,30 +1205,27 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size:20px;
     text-align:left
 }
-.demo-3 figure p {
-    display:block;
-    font-family:'Lato';
-    font-size:12px;
-    line-height:18px;
-    margin:0;
-    color:#fff;
-    text-align:left
+
+.fondoservicios{
+  background:url("../img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg");
 }
+
 .demo-3 figure figcaption {
     top:0;
     left:0;
     width:100%;
     height:100%;
     padding: 150px 44px;
-    background-color:rgb(0, 29, 126, 0.5);
     text-align:center;
     backface-visibility:hidden;
+   
     -webkit-transform:rotateY(-180deg);
     -moz-transform:rotateY(-180deg);
     transform:rotateY(-180deg);
     -webkit-transition:all .5s;
     -moz-transition:all .5s;
     transition:all .5s
+    
 }
 
 
@@ -1236,7 +1235,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     -moz-transition:all .5s;
     transition:all .5s
 }
-.demo-3 figure:hover img,figure.hover img {
+.demo-3 figure:hover img,figure.hover  {
     -webkit-transform:rotateY(180deg);
     -moz-transform:rotateY(180deg);
     transform:rotateY(180deg)

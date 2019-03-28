@@ -206,22 +206,31 @@
 
         <div class="row">
           <div class="col-sm-4">
+          <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+              <br>
+              <br>
+            </div>
             <div class="demo-3">
               <figure>
-                <img src="img/servicios/servicios1apagado.png" alt="" />
+                <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" alt="" />
+                
                 <figcaption>
+                <div class="fondoservicios">
                   <h2>Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus
                     necesidades.</h2>
+                    </div>
                 </figcaption>
+                
               </figure>
             </div>
-            <!-- <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
-              <br>
-              <br>
-            </div> -->
+
           </div>
 
           <div class="col-sm-4">
+            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES
+              <br>
+              <br>
+            </div>
             <div class="demo-3">
               <div>
                 <figure>
@@ -233,18 +242,17 @@
                 </figure>
               </div>
             </div>
-            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES
-              <br>
-              <br>
-            </div>
+
 
           </div>
           <div class="col-sm-4">
+            <div class="services_form_title">SERVICIO DE MANTENIMIENTO Y REPARACION DE EQUIPOS</div>
             <div class="demo-3">
               <div>
                 <figure>
                   <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" alt="" />
                   <figcaption>
+
                     <h2>Ofrecemos políticas de servicio (trimestrales ,semestrales y anuales) para sus equipos que
                       incluyen servicio
                       de mantenimiento preventivo y correctivo con refacciones y mano de obra.</h2>
@@ -252,8 +260,6 @@
                 </figure>
               </div>
             </div>
-            <div class="services_form_title">SERVICIO DE MANTENIMIENTO Y REPARACION DE EQUIPOS</div>
-
           </div>
         </div>
         <br>
@@ -438,7 +444,7 @@
                     <i class="lni-phone"></i> Telefono</h5>
                   <p>+52 () 000 000 </p>
                 </div>
-                
+
               </div>
             </div>
           </div>
