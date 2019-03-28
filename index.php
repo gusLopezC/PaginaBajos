@@ -104,8 +104,8 @@
     <!-- Wrapper for slides -->
 
     <div class="carousel-inner">
-      <div class="carousel-item active"> <img src="img/banner/banner_1.png" width="100%" height="500"></div>
-      <div class="carousel-item"> <img src="img/banner/banner_2.png" width="100%" height="500"> </div>
+      <div class="carousel-item active"> <img src="img/banner/banner_1.png" ></div>
+      <div class="carousel-item"> <img src="img/banner/banner_2.png" > </div>
     </div>
 
     <!-- Left and right controls -->
@@ -140,8 +140,7 @@
 
           <h2>BIENVENIDOS A
             <br>
-            <span>MICRO
-              <br>PROCESAMIENTOS</span>
+            <span>MICROPROCESAMIENTOS</span>
           </h2>
           <p>Somos una compañia mexicana con más de <strong>35 años</strong> de experiencia,dedicada a la
             comercialización,servicio e instalación
@@ -369,8 +368,8 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-lg-5">
-            <div class="direct_line_num"> Déjanos un correo </div>
+          <div class="col-lg-7">
+            <div class="direct_line_num"> Ponte en contacto con nosotros</div>
           </div>
         </div>
         <br>
@@ -439,16 +438,7 @@
                     <i class="lni-phone"></i> Telefono</h5>
                   <p>+52 () 000 000 </p>
                 </div>
-                <div class="contact-info">
-                  <h5>Siguenos en nuestras redes sociales:</h5>
-                </div>
-                <div class="footer-social">
-                  <li>
-                    <a class="facebook" href="#">
-                      <i class="lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                </div>
+                
               </div>
             </div>
           </div>
