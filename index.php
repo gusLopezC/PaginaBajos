@@ -104,8 +104,11 @@
     <!-- Wrapper for slides -->
 
     <div class="carousel-inner">
-      <div class="carousel-item active"> <img src="img/banner/banner_1.png" ></div>
-      <div class="carousel-item"> <img src="img/banner/banner_2.png" > </div>
+      <div class="carousel-item active">
+        <img src="img/banner/banner_1.png">
+      </div>
+      <div class="carousel-item">
+        <img src="img/banner/banner_2.png"> </div>
     </div>
 
     <!-- Left and right controls -->
@@ -142,19 +145,20 @@
             <br>
             <span>MICROPROCESAMIENTOS</span>
           </h2>
-          <p>Somos una compañia mexicana con más de <strong>35 años</strong> de experiencia,dedicada a la
-            comercialización,servicio e instalación
-            de los mejores productos de <strong>alta tecnología</strong> en comunicaciones y procesamiento de datos
-            para oficinas,corportivos
-            e instituciones públicas y privadas.
+          <p>Somos una compañía mexicana con más de
+            <strong>35 años</strong> de experiencia, dedicada a la comercialización, servicio e instalación de los mejores productos
+            de
+            <strong>alta tecnología </strong> en comunicaciones y procesamiento de datos para oficinas, corporativos e instituciones
+            públicas y privadas para oficinas, corporativos e instituciones públicas y privadas.
           </p>
         </div>
-        <div class="section-option col-sm-6 section-option-azul">
+        <div class="section-option col-sm-6 section-option-azul section-cortar">
           <h2>
-            <br><br>
+            <br>
+            <br>
             <span>MISIÓN</span>
           </h2>
-          <p class="text-center">"Ofrecer equipos de la más alta tecnología al servicio dels cliente"
+          <p class="text-center">"Ofrecer equipos de la más alta tecnología al servicio del cliente"
           </p>
         </div>
 
@@ -195,6 +199,8 @@
 
     <!--==========================
       Services Section
+
+
     ============================-->
     <section id="services">
       <div class="container">
@@ -205,61 +211,50 @@
         </div>
 
         <div class="row">
-          <div class="col-sm-4">
-          <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+          <div class="col-sm-4 wow fadeInUp">
+            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
               <br>
               <br>
             </div>
-            <div class="demo-3">
-              <figure>
-                <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" alt="" />
-                
-                <figcaption>
-                <div class="fondoservicios">
-                  <h2>Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus
-                    necesidades.</h2>
-                    </div>
-                </figcaption>
-                
-              </figure>
-            </div>
+            <div class="view view-first">
 
-          </div>
-
-          <div class="col-sm-4">
-            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES
-              <br>
-              <br>
-            </div>
-            <div class="demo-3">
-              <div>
-                <figure>
-                  <img src="img/fondos/FOTO_SOPORTE_TECNICO.jpg" alt="" />
-                  <figcaption>
-                    <h2>Contamos con equipo de bajo medio y alto volumen de impresión que se adaptan a sus
-                      requerimientos.</h2>
-                  </figcaption>
-                </figure>
+              <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" />
+              <div class="mask">
+                <h2>Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus
+                  necesidades</h2>
               </div>
             </div>
 
-
           </div>
-          <div class="col-sm-4">
-            <div class="services_form_title">SERVICIO DE MANTENIMIENTO Y REPARACION DE EQUIPOS</div>
-            <div class="demo-3">
-              <div>
-                <figure>
-                  <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" alt="" />
-                  <figcaption>
+          <div class="col-sm-4 wow fadeInUp">
+            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+              <br>
+              <br>
+            </div>
+            <div class="view view-first">
 
-                    <h2>Ofrecemos políticas de servicio (trimestrales ,semestrales y anuales) para sus equipos que
-                      incluyen servicio
-                      de mantenimiento preventivo y correctivo con refacciones y mano de obra.</h2>
-                  </figcaption>
-                </figure>
+              <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" />
+              <div class="mask">
+                <h2>Contamos con equipo de bajo medio y alto volumen de impresión que se adaptan a sus
+                  requerimientos.</h2>
               </div>
             </div>
+
+          </div>
+          <div class="col-sm-4 wow fadeInUp">
+            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+              <br>
+              <br>
+            </div>
+            <div class="view view-first">
+
+              <img src="img/fondos/FOTO_SOPORTE_TECNICO.jpg" />
+              <div class="mask">
+                <h2>Ofrecemos políticas de servicio (trimestrales, semestrales y anuales) para sus equipos que
+                  incluyen servicio de mantenimiento preventivo y correctivo con refacciones y mano de obra.</h2>
+              </div>
+            </div>
+
           </div>
         </div>
         <br>
@@ -386,34 +381,29 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="name" name="name" placeholder="Nombre o Compañia"
-                        required="" data-error="Ingresa tu nombre">
+                      <input type="text" class="form-control" id="name" name="name" placeholder="Nombre o Compañía" required="" data-error="Ingresa tu nombre">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input type="text" placeholder="Email" id="email" class="form-control" name="name" required=""
-                        data-error="Ingresa tu email">
+                      <input type="text" placeholder="Email" id="email" class="form-control" name="name" required="" data-error="Ingresa tu email">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="form-group">
-                      <input type="text" placeholder="Asunto" id="msg_subject" class="form-control" required=""
-                        data-error="Ingresa tu asunto">
+                      <input type="text" placeholder="Asunto" id="msg_subject" class="form-control" required="" data-error="Ingresa tu asunto">
                       <div class=" help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="form-group">
-                      <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje"
-                        required=""></textarea>
+                      <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
                       <div class="help-block with-errors"></div>
                     </div>
                     <div class="submit-button">
-                      <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar
-                        mensaje
+                      <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
                       </button>
                       <div id="msgSubmit" class="h3 hidden"></div>
                       <div class="clearfix"></div>
