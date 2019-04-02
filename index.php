@@ -3,10 +3,24 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Bajos | Servicios de impresion y copiadoras</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Microprocesamientos | Servicios de impresion y copiadoras</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero">
+    <meta name="description" lang="es" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
+    <meta name="keywords" content="sgi,cdmx,queretaro,anuncios publicitarios,diseño grafico,publicidad,graficas,rotulado,vinil,impresion,corporativa,">
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="canonical" href="http://www.gruposgi.com.mx/">
+    <meta name="author" content="gusLopezC">
+    <meta name="Robots" content="Index,Follow,Cache, Noodp">
+    <meta property="og:title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero" />
+    <meta property="og:type" content="company" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:url" content="http://www.gruposgi.com.mx/" />
+    <meta property="og:image" content="http://www.gruposgi.com.mx/images/logo.png" />
+    <meta property="og:site_name" content="SGI | Soluciones Gráficas e Industriales" />
+    <meta property="og:description" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
 
   <!-- Favicons -->
   <link href="img/favicon.ico" rel="icon">
