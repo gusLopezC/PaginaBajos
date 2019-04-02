@@ -42,8 +42,8 @@
       </div>
       <div class="social-links float-right">
 
-        <a href="#" class="facebook">
-          <i class="fa fa-facebook"></i>@BajosAcapulco</a>
+        <a href="https://www.facebook.com/BajosAcapulco" class="facebook" >
+         @BajosAcapulco</a>
 
       </div>
     </div>
@@ -267,25 +267,17 @@
           </div>
 
           <div class=" marcas wow fadeInUp col-sm-3">
-            <a href="https://www.canon.com.mx/" target="_blank">
               <img src="img/marcas/canon.png" alt="" class="img-responsive">
-            </a>
           </div>
           <div class=" marcas wow fadeInUp col-sm-3">
-            <a href="www.katun.com/es/" target="_blank">
               <img src="img/marcas/katun.jpg" alt="" class="img-responsive">
-            </a>
           </div>
           <div class=" marcas wow fadeInUp col-sm-3">
-            <a href="https://www.kyoceradocumentsolutions.es/" target="_blank">
-              <img src="img/marcas/kyocera.jpg" alt="" class="img-responsive">
-            </a>
+               <img src="img/marcas/kyocera.jpg" alt="" class="img-responsive">
           </div>
           <div class=" marcas wow fadeInUp col-sm-3">
-            <a href="https://www.oki.com/" target="_blank">
-              <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
-            </a>
-          </div>
+               <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
+            u</div>
         </div>
         <br>
         <br>
@@ -402,12 +394,12 @@
                       <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
                       <div class="help-block with-errors"></div>
                     </div>
-                    <div class="submit-button">
+                    <!-- <div class="submit-button">
                       <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
                       </button>
                       <div id="msgSubmit" class="h3 hidden"></div>
                       <div class="clearfix"></div>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </form>
@@ -426,15 +418,21 @@
                 <div class="contact-info">
                   <h5>
                     <i class="lni-star"></i> E-mail</h5>
-                  <p>contacto@.mx</p>
+                  <p>micropro@btu.com.mx</p>
                 </div>
 
                 <div class="contact-info">
                   <h5>
                     <i class="lni-phone"></i> Telefono</h5>
-                  <p>+52 () 000 000 </p>
+                  <p>+52 01 744 482 1938 </p>
                 </div>
-
+                <br>
+                <div class="submit-button">
+                      <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
+                      </button>
+                      <div id="msgSubmit" class="h3 hidden"></div>
+                      <div class="clearfix"></div>
+                 </div>
               </div>
             </div>
           </div>
