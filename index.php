@@ -227,8 +227,6 @@
         <div class="row">
           <div class="col-sm-4 wow fadeInUp">
             <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
-              <br>
-              <br>
             </div>
             <div class="view view-first">
 
@@ -242,8 +240,6 @@
           </div>
           <div class="col-sm-4 wow fadeInUp">
             <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
-              <br>
-              <br>
             </div>
             <div class="view view-first">
 
@@ -257,8 +253,6 @@
           </div>
           <div class="col-sm-4 wow fadeInUp">
             <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
-              <br>
-              <br>
             </div>
             <div class="view view-first">
 
@@ -376,7 +370,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-7">
-            <div class="direct_line_num"> Ponte en contacto con nosotros</div>
+            <div class="direct_line_num"> Dejanos un mensaje para mas información</div>
           </div>
         </div>
         <br>
