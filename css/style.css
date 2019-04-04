@@ -540,6 +540,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (min-width: 480px) {
 .section-option {
   background: rgb(255, 255, 255, 0.8);
+  -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
   min-height: 400px;
   height:  400px;
   text-align: center;
@@ -565,6 +569,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (max-width: 480px) {
   .section-option {
     background: rgb(255, 255, 255, 0.8);
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     min-height: 600px;
     height:  600px;
     text-align: center;
@@ -591,7 +599,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-option-azul{
-  background: rgb(193, 204, 239, 0.8)
+  background-color: rgb(193, 204, 239, 0.8);
+  -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
 }
 
 .section-option h2 span {
