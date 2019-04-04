@@ -491,7 +491,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgb(3, 28, 109, 0.9);
+  background: rgba(3, 28, 109, 0.9);
   display: none;
 }
 
@@ -572,7 +572,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 @media (max-width: 480px) {
   .section-option {
-    background: rgb(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.8);
     -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -1142,14 +1142,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   min-height: 350px;
     height: 350px;
     text-align: center;
-  background: rgb(12, 46, 138 , 0.8);
+  background: rgba(12, 46, 138 , 0.8);
 }
 
 .counter-fondo-blanco{
   min-height: 350px;
     height: 350px;
     text-align: center;
-  background: rgb(242, 244, 246, 0.6);
+  background: rgba(242, 244, 246, 0.6);
 }
 
 .counter .counter-timer {
