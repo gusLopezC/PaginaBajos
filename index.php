@@ -180,7 +180,7 @@
           <div class="counter">
             <h1 class="counter-number">
               <br>
-              <div id="number1" class="counter-timer" data-from="1950" data-to="1981">1981</div>
+              <div id="number1" class="counter-timer" data-from="1981" data-to="1981">1981</div>
             </h1>
             <h1 class="counter-title">Fecha de fundación
               <br>
