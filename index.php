@@ -163,7 +163,7 @@
             <strong>35 años</strong> de experiencia, dedicada a la comercialización, servicio e instalación de los mejores productos
             de
             <strong>alta tecnología </strong> en comunicaciones y procesamiento de datos para oficinas, corporativos e instituciones
-            públicas y privadas para oficinas, corporativos e instituciones públicas y privadas.
+            públicas y privadas.
           </p>
         </div>
         <div class="section-option col-sm-6 section-option-azul section-cortar">
@@ -233,26 +233,26 @@
               <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" />
               <div class="mask">
                 <h2>Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus
-                  necesidades</h2>
+                  necesidades.</h2>
               </div>
             </div>
 
           </div>
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES 
             </div>
             <div class="view view-first">
 
               <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" />
               <div class="mask">
-                <h2>Contamos con equipo de bajo medio y alto volumen de impresión que se adaptan a sus
+                <h2>Contamos con equipo de bajo, medio y alto volumen de impresión que se adaptan a sus
                   requerimientos.</h2>
               </div>
             </div>
 
           </div>
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">SERVICIOS DE MANTENIMIENTO Y REPARACIÓN DE EQUIPOS
             </div>
             <div class="view view-first">
 
@@ -285,7 +285,7 @@
           </div>
           <div class=" marcas wow fadeInUp col-sm-3">
                <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
-            u</div>
+          </div>
         </div>
         <br>
         <br>
@@ -364,7 +364,7 @@
     <!-- #clients -->
     <section id="contact" class="wow fadeInUp">
       <div class="section-header">
-        <h2>CONTACTANOS
+        <h2>CONTÁCTANOS
         </h2>
       </div>
       <div class="container">
@@ -420,7 +420,7 @@
                 <div class="contact-info">
                   <h5>
                     <i class="lni-map"></i> Direccion</h5>
-                  <p>Quebrada 62, Adobería, Acapulco, Gro.</p>
+                  <p>Quebrada 62, Col. Centro Jutno al Treatro Domigno Soler, Acapulco, Gro. C.P. 39300</p>
                 </div>
 
                 <div class="contact-info">
@@ -436,7 +436,7 @@
                 </div>
                 <br>
                 <div class="submit-button">
-                      <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
+                      <button class="btn btn-common btn-effect  text-center" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
                       </button>
                       <div id="msgSubmit" class="h3 hidden"></div>
                       <div class="clearfix"></div>
