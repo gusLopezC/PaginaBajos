@@ -10,7 +10,7 @@
     <meta name="title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero">
     <meta name="description" lang="es" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
     <meta name="keywords" content="sgi,cdmx,queretaro,anuncios publicitarios,diseño grafico,publicidad,graficas,rotulado,vinil,impresion,corporativa,">
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="img/favicon.ico" />
     <link rel="canonical" href="http://www.gruposgi.com.mx/">
     <meta name="author" content="gusLopezC">
     <meta name="Robots" content="Index,Follow,Cache, Noodp">
@@ -102,42 +102,11 @@
   </header>
   <!-- #header -->
 
-  <!--==========================
-    Intro Section
-  ============================-->
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <video class="videotodo" preload="auto" autoplay loop muted>
+   <source type="video/webm" src="video/video.mp4"> 
 
-    <!-- Indicators -->
-
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
-    </ol>
-
-    <!-- Wrapper for slides -->
-
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="img/banner/banner_1.png">
-      </div>
-      <div class="carousel-item">
-        <img src="img/banner/banner_2.png"> </div>
-    </div>
-
-    <!-- Left and right controls -->
-
-    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-
-
+   <img src="https://movidagrafica.com/video/video.jpg">
+   </video>
   <main id="main">
 
     <!--==========================
@@ -402,12 +371,12 @@
                       <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
                       <div class="help-block with-errors"></div>
                     </div>
-                    <!-- <div class="submit-button">
+                    <div class="submit-button">
                       <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
                       </button>
                       <div id="msgSubmit" class="h3 hidden"></div>
                       <div class="clearfix"></div>
-                    </div> -->
+                    </div> 
                   </div>
                 </div>
               </form>
@@ -434,13 +403,6 @@
                     <i class="lni-phone"></i> Telefono</h5>
                   <p>+52 01 744 482 1938 </p>
                 </div>
-                <br>
-                <div class="submit-button">
-                      <button class="btn btn-common btn-effect  text-center" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
-                      </button>
-                      <div id="msgSubmit" class="h3 hidden"></div>
-                      <div class="clearfix"></div>
-                 </div>
               </div>
             </div>
           </div>

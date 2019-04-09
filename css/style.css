@@ -936,7 +936,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     clear: both;
   }
   .submit-button{
-    text-align: center;
+    text-align: left;
   }
   .footer-social li {
     display: inline-block;
@@ -1325,3 +1325,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition-delay: 0.2s;
 }
 
+.videotodo {
+  width: 100%;
+}
