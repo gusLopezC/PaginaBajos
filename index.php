@@ -102,7 +102,7 @@
   </header>
   <!-- #header -->
 
-  <video class="videotodo" preload="auto" autoplay loop muted controls="true" playsinline>
+  <video class="videotodo" preload="auto" autoplay loop muted playsinline>
    <source type="video/webm" src="video/video.mp4"> 
    <img src="https://movidagrafica.com/video/video.jpg">
    </video>
