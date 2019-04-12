@@ -17,7 +17,7 @@ body {
 
 
 a {
-  color: #50d8af;
+  color: #001D7E;
   transition: 0.5s;
 }
 
@@ -51,7 +51,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #50d8af;
+  background: #001D7E;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -62,7 +62,7 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #50d8af;
+  background: #001D7E;
   color: #fff;
   outline: none;
 }
@@ -208,7 +208,7 @@ h6 {
 }
 
 #intro .intro-content h2 span {
-  color: #50d8af;
+  color: #001D7E;
   text-decoration: underline;
 }
 
@@ -237,13 +237,13 @@ h6 {
 }
 
 #intro .intro-content .btn-projects {
-  background: #50d8af;
-  border: 2px solid #50d8af;
+  background: #001D7E;
+  border: 2px solid #001D7E;
 }
 
 #intro .intro-content .btn-projects:hover {
   background: none;
-  color: #50d8af;
+  color: #001D7E;
 }
 
 #intro #intro-carousel {
@@ -390,7 +390,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-  color: #50d8af;
+  color: #001D7E;
 }
 
 .nav-menu ul ul {
@@ -477,11 +477,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #50d8af;
+  color: #001D7E;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #50d8af;
+  color: #001D7E;
 }
 
 #mobile-body-overly {
@@ -656,7 +656,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #50d8af;
+  color: #001D7E;
 }
 
 #about .content ul {
@@ -704,7 +704,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .box .icon i:before {
   background: #0c2e8a;
-  background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
+  background: linear-gradient(45deg, #001D7E 0%, #a3ebd5 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -782,7 +782,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients .owl-dot.active {
-  background-color: #50d8af;
+  background-color: #001D7E;
 }
 
 
