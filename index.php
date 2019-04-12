@@ -102,9 +102,8 @@
   </header>
   <!-- #header -->
 
-  <video class="videotodo" preload="auto" autoplay loop muted>
+  <video class="videotodo" preload="auto" autoplay loop muted controls="true" playsinline>
    <source type="video/webm" src="video/video.mp4"> 
-
    <img src="https://movidagrafica.com/video/video.jpg">
    </video>
   <main id="main">
