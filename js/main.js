@@ -298,9 +298,9 @@ $.fn.jQuerySimpleCounter = function( options ) {
 };
 
 
-$('#number1').jQuerySimpleCounter({end: 1981,duration: 1000});
-$('#number2').jQuerySimpleCounter({end: 25,duration: 1500});
-$('#number3').jQuerySimpleCounter({end: 38,duration: 1500});
+$('#number1').jQuerySimpleCounter({end: 1981,duration: 3000});
+$('#number2').jQuerySimpleCounter({end: 25,duration: 2000});
+$('#number3').jQuerySimpleCounter({end: 38,duration: 2000});
 
 
 
