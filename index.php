@@ -194,7 +194,7 @@
 
         <div class="row">
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES<br><br>
             </div>
             <div class="view view-first">
 
@@ -207,7 +207,7 @@
 
           </div>
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES 
+            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES <br><br>
             </div>
             <div class="view view-first">
 
