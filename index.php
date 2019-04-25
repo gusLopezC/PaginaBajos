@@ -278,33 +278,33 @@
               <img src="img/clients/client-1.png" class="img-responsive " alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-2.png" class="img-responsive " alt="">
+              <img src="img/clients/client-2.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-3.png" class="img-responsive " alt="">
+              <img src="img/clients/client-3.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-4.png" class="img-responsive " alt="">
+              <img src="img/clients/client-4.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-6.png" class="img-responsive " alt="">
+              <img src="img/clients/client-6.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-1"></div>
             <div class="col-sm-1"></div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-7.jpg" class="img-responsive " alt="">
+              <img src="img/clients/client-7.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-8.png" class="img-responsive " alt="">
+              <img src="img/clients/client-8.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-10.png" class="img-responsive " alt="">
+              <img src="img/clients/client-10.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-13.png" class="img-responsive " alt="">
+              <img src="img/clients/client-13.png" class="img-fluid" alt="">
             </div>
             <div class="col-sm-2 wow fadeInUp">
-              <img src="img/clients/client-14.png" class="img-responsive " alt="">
+              <img src="img/clients/client-14.png" class="img-fluid" alt="">
             </div>
           </div>
         </div>
@@ -312,15 +312,15 @@
         <div class="areaclientesmobil">
           <div class="row">
             <div class="owl-carousel clients-carousel">
-              <img src="img/clients/client-2.png" alt="">
-              <img src="img/clients/client-3.png" alt="">
-              <img src="img/clients/client-4.png" alt="">
-              <img src="img/clients/client-6.png" alt="">
-              <img src="img/clients/client-7.jpg" alt="">
-              <img src="img/clients/client-8.png" alt="">
-              <img src="img/clients/client-10.png" alt="">
-              <img src="img/clients/client-13.png" alt="">
-              <img src="img/clients/client-14.png" alt="">
+              <img class="img-fluid" src="img/clients/client-2.png" alt="">
+              <img class="img-fluid" src="img/clients/client-3.png" alt="">
+              <img class="img-fluid" src="img/clients/client-4.jpg " alt="">
+              <img class="img-fluid" src="img/clients/client-6.png" alt="">
+              <img class="img-fluid" src="img/clients/client-7.jpg" alt="">
+              <img class="img-fluid" src="img/clients/client-8.png" alt="">
+              <img class="img-fluid" src="img/clients/client-10.png" alt="">
+              <img class="img-fluid" src="img/clients/client-13.png" alt="">
+              <img class="img-fluid" src="img/clients/client-14.png" alt="">
             </div>
 
           </div>
@@ -386,21 +386,20 @@
 
               <div class="contact-info_area">
                 <div class="contact-info">
-                  <h5>
-                    <i class="lni-map"></i> Direccion</h5>
-                  <p>Quebrada 62, Col. Centro Jutno al Treatro Domigno Soler, Acapulco, Gro. C.P. 39300</p>
+                  <h5><b>Direccion</b></h5>
+                  <p>Quebrada 62, Col.<br> Centro junto al Teatro Domingo Soler.<br> Acapulco, Guerrero.<br> C.P. 39300</p>
                 </div>
 
                 <div class="contact-info">
-                  <h5>
-                    <i class="lni-star"></i> E-mail</h5>
+                  <h5><b>Email</b></h5>
                   <p>micropro@btu.com.mx</p>
                 </div>
 
                 <div class="contact-info">
-                  <h5>
-                    <i class="lni-phone"></i> Telefono</h5>
-                  <p>+52 01 744 482 1938 </p>
+                  <h5><b>Telefono</b></h5>
+                  <p>+52 01 744 482 1938 </p><br>
+                  <h5><b>Horario de Oficina:</b></h5>
+                  <p>8:30 am - 18:00 pm</p>
                 </div>
               </div>
             </div>
@@ -416,7 +415,7 @@
       Contact Section
     ============================-->
     <footer>
-      <div style=" background: rgb(2, 12, 68, 0.9)">
+      <div style=" background: rgba(2, 12, 68, 0.9)">
         <div class="container">
           <div class="row">
             <br>
