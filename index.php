@@ -10,7 +10,7 @@
     <meta name="title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero">
     <meta name="description" lang="es" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
     <meta name="keywords" content="sgi,cdmx,queretaro,anuncios publicitarios,diseño grafico,publicidad,graficas,rotulado,vinil,impresion,corporativa,">
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="img/favicon.ico" />
     <link rel="canonical" href="http://www.gruposgi.com.mx/">
     <meta name="author" content="gusLopezC">
     <meta name="Robots" content="Index,Follow,Cache, Noodp">
@@ -102,42 +102,10 @@
   </header>
   <!-- #header -->
 
-  <!--==========================
-    Intro Section
-  ============================-->
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-    <!-- Indicators -->
-
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
-    </ol>
-
-    <!-- Wrapper for slides -->
-
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="img/banner/banner_1.png">
-      </div>
-      <div class="carousel-item">
-        <img src="img/banner/banner_2.png"> </div>
-    </div>
-
-    <!-- Left and right controls -->
-
-    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-
-
+  <video class="videotodo" preload="auto" autoplay loop muted playsinline>
+   <source src="video/video.mp4" type="video/mp4">
+   <img src="https://movidagrafica.com/video/video.jpg">
+   </video>
   <main id="main">
 
     <!--==========================
@@ -163,7 +131,7 @@
             <strong>35 años</strong> de experiencia, dedicada a la comercialización, servicio e instalación de los mejores productos
             de
             <strong>alta tecnología </strong> en comunicaciones y procesamiento de datos para oficinas, corporativos e instituciones
-            públicas y privadas para oficinas, corporativos e instituciones públicas y privadas.
+            públicas y privadas.
           </p>
         </div>
         <div class="section-option col-sm-6 section-option-azul section-cortar">
@@ -226,7 +194,7 @@
 
         <div class="row">
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES<br><br>
             </div>
             <div class="view view-first">
 
@@ -239,7 +207,7 @@
 
           </div>
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">RENTA DE EQUIPOS MULTIFUNCIONALES <br><br>
             </div>
             <div class="view view-first">
 
@@ -252,7 +220,7 @@
 
           </div>
           <div class="col-sm-4 wow fadeInUp">
-            <div class="services_form_title">VENTA DE EQUIPOS Y CONSUMIBLES
+            <div class="services_form_title">SERVICIOS DE MANTENIMIENTO Y REPARACIÓN DE EQUIPOS
             </div>
             <div class="view view-first">
 
@@ -364,7 +332,7 @@
     <!-- #clients -->
     <section id="contact" class="wow fadeInUp">
       <div class="section-header">
-        <h2>CONTACTANOS
+        <h2>CONTÁCTANOS
         </h2>
       </div>
       <div class="container">
@@ -402,12 +370,12 @@
                       <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
                       <div class="help-block with-errors"></div>
                     </div>
-                    <!-- <div class="submit-button">
+                    <div class="submit-button">
                       <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
                       </button>
                       <div id="msgSubmit" class="h3 hidden"></div>
                       <div class="clearfix"></div>
-                    </div> -->
+                    </div> 
                   </div>
                 </div>
               </form>
@@ -420,7 +388,7 @@
                 <div class="contact-info">
                   <h5>
                     <i class="lni-map"></i> Direccion</h5>
-                  <p>Quebrada 62, Adobería, Acapulco, Gro.</p>
+                  <p>Quebrada 62, Col. Centro Jutno al Treatro Domigno Soler, Acapulco, Gro. C.P. 39300</p>
                 </div>
 
                 <div class="contact-info">
@@ -434,13 +402,6 @@
                     <i class="lni-phone"></i> Telefono</h5>
                   <p>+52 01 744 482 1938 </p>
                 </div>
-                <br>
-                <div class="submit-button">
-                      <button class="btn btn-common btn-effect disabled" id="submit" type="submit" style="pointer-events: all; cursor: pointer;">Enviar mensaje
-                      </button>
-                      <div id="msgSubmit" class="h3 hidden"></div>
-                      <div class="clearfix"></div>
-                 </div>
               </div>
             </div>
           </div>
