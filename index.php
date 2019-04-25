@@ -232,7 +232,7 @@
 
               <img src="img/fondos/FOTO_VENTA_DE_EQUIPOS.jpg" />
               <div class="mask">
-                <h2>Impresoras de tinta y tóner, scanners, plotters con la características que se adapten a sus
+                <h2>Impresoras / Multifuncionales de tinta y toner, scanners, plotters con las características que se adapten a sus
                   necesidades</h2>
               </div>
             </div>
@@ -245,7 +245,7 @@
 
               <img src="img/fondos/FOTO_RENTA_DE_EQUIPOS.jpg" />
               <div class="mask">
-                <h2>Contamos con equipo de bajo medio y alto volumen de impresión que se adaptan a sus
+                <h2>Contamos con equipos de impresión y/o copiado de bajo medio y alto volumen de impresión que se adaptan a sus
                   requerimientos.</h2>
               </div>
             </div>
@@ -258,7 +258,7 @@
 
               <img src="img/fondos/FOTO_SOPORTE_TECNICO.jpg" />
               <div class="mask">
-                <h2>Ofrecemos políticas de servicio (trimestrales, semestrales y anuales) para sus equipos que
+                <h2>Ofrecemos pólizas de servicio (trimestrales, semestrales y anuales) para sus equipos que
                   incluyen servicio de mantenimiento preventivo y correctivo con refacciones y mano de obra.</h2>
               </div>
             </div>
@@ -285,7 +285,7 @@
           </div>
           <div class=" marcas wow fadeInUp col-sm-3">
                <img src="img/marcas/OKI.jpg" alt="" class="img-responsive">
-            u</div>
+            </div>
         </div>
         <br>
         <br>
@@ -370,7 +370,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-7">
-            <div class="direct_line_num"> Dejanos un mensaje para mas información</div>
+            <div class="direct_line_num">Para más información déjanos un mensaje</div>
           </div>
         </div>
         <br>
