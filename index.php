@@ -386,7 +386,7 @@
 
               <div class="contact-info_area">
                 <div class="contact-info">
-                  <h5><b>Direccion</b></h5>
+                  <h5><b>Dirección</b></h5>
                   <p>Quebrada 62, Col.<br> Centro junto al Teatro Domingo Soler.<br> Acapulco, Guerrero.<br> C.P. 39300</p>
                 </div>
 
@@ -396,7 +396,7 @@
                 </div>
 
                 <div class="contact-info">
-                  <h5><b>Telefono</b></h5>
+                  <h5><b>Teléfono </b></h5>
                   <p>+52 01 744 482 1938 </p><br>
                   <h5><b>Horario de Oficina:</b></h5>
                   <p>8:30 am - 18:00 pm</p>
