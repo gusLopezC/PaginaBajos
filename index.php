@@ -1,4 +1,6 @@
+
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -148,7 +150,7 @@
           <div class="counter">
             <h1 class="counter-number">
               <br>
-              <div id="number1" class="counter-timer" data-from="1981" data-to="1981">1981</div>
+              <div  class="counter-timer" data-from="1981" data-to="1981">1981</div>
             </h1>
             <h1 class="counter-title">Fecha de fundación
               <br>
@@ -160,7 +162,7 @@
           <div class="counter">
             <h1 class="counter-number">
               <br>
-              <div id="number2" class="counter-timer" style="color: #0c2e8a" data-from="0" data-to="25">25</div>
+              <div  class="counter-timer" style="color: #0c2e8a" data-from="0" data-to="25">25</div>
             </h1>
             <h1 class="counter-title" style="color: #0c2e8a;">Marcas han confiado en nosotros</h1>
           </div>
@@ -169,7 +171,7 @@
           <div class="counter">
             <h1 class="counter-number">
               <br>
-              <div id="number3" class="counter-timer" data-from="0" data-to="38">38</div>
+              <div  class="counter-timer" data-from="0" data-to="38">38</div>
             </h1>
             <h1 class="counter-title">Años ofreciendo las mejores marcas</h1>
           </div>
@@ -345,29 +347,29 @@
         <div class="row">
           <div class="col-lg-9 col-md-9 col-xs-12">
             <div class="contact-block">
-              <form id="contactForm" novalidate="true">
+              <form action="envio.php" method="post">
                 <div class="row">
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="name" name="name" placeholder="Nombre o Compañía" required="" data-error="Ingresa tu nombre">
+                      <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre o Compañía" required="" data-error="Ingresa tu nombre">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input type="text" placeholder="Email" id="email" class="form-control" name="name" required="" data-error="Ingresa tu email">
+                      <input type="text" placeholder="Email" id="email" class="form-control" name="email" required="" data-error="Ingresa tu email">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="form-group">
-                      <input type="text" placeholder="Asunto" id="msg_subject" class="form-control" required="" data-error="Ingresa tu asunto">
+                      <input type="text" placeholder="Asunto" id="asunto" name="asunto" class="form-control" required="" data-error="Ingresa tu asunto">
                       <div class=" help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="form-group">
-                      <textarea class="form-control" id="Mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
+                      <textarea class="form-control" id="mensaje" name="mensaje" placeholder="Escribe tu mensaje" rows="7" data-error="Escribe tu mensaje" required=""></textarea>
                       <div class="help-block with-errors"></div>
                     </div>
                     <div class="submit-button">
@@ -452,3 +454,5 @@
 </body>
 
 </html>
+
+
