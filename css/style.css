@@ -89,7 +89,7 @@ h6 {
 }
 
 #topbar .contact-info a:hover {
-  color: #0c2e8a;
+  color: #fff;
 }
 
 #topbar .contact-info i {
@@ -112,7 +112,7 @@ h6 {
 }
 
 #topbar .social-links a:hover {
-  color: #0c2e8a;
+  color: #fff;
 }
 
 #topbar .social-links a:first-child {
@@ -959,7 +959,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
   
   .footer-social li .facebook:hover {
-    background-color: #3b5998;
+    background-color: #fff;
   }
     
 /*--------------------------------------------------------------

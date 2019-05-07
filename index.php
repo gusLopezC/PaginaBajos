@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="es">
 
 <head>
   <meta charset="utf-8">
@@ -10,19 +10,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <meta name="title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero">
-    <meta name="description" lang="es" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
-    <meta name="keywords" content="sgi,cdmx,queretaro,anuncios publicitarios,diseño grafico,publicidad,graficas,rotulado,vinil,impresion,corporativa,">
+    <meta name="description" lang="es" content="Somos una compañía mexicana con más de 35 años de experiencia en Acapulco, ofrecemos una excelente marca de impresoras de la mas alta calidad,vendemos consumibles y accesorios.Servicio y mantenimiento a copiadoras según tus necesidades."/>
+    <meta name="keywords" content="Acapulco, impresoras, multifuncionales, copiadoras, venta, renta, arrendamiento, gestión de documentos,Impresora láser color, Impresoras de tinta, Impresora WiFi, Impresora HP, Impresora Canon, ">
     <link rel="shortcut icon" href="img/favicon.ico" />
-    <link rel="canonical" href="http://www.gruposgi.com.mx/">
+    <link rel="canonical" href="http://micropro.com.mx/">
     <meta name="author" content="gusLopezC">
     <meta name="Robots" content="Index,Follow,Cache, Noodp">
     <meta property="og:title" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero" />
     <meta property="og:type" content="company" />
     <meta property="og:locale" content="es_MX" />
-    <meta property="og:url" content="http://www.gruposgi.com.mx/" />
-    <meta property="og:image" content="http://www.gruposgi.com.mx/images/logo.png" />
-    <meta property="og:site_name" content="SGI | Soluciones Gráficas e Industriales" />
-    <meta property="og:description" content="Soluciones Gráficas e Industriales es una empresa de diseño e impresión. Nos enfocamos en proveer material publicitario de gran calidad y exceder las necesidades de nuestros clientes." />
+    <meta property="og:url" content="http://micropro.com.mx/" />
+    <meta property="og:image" content="http://micropro.com.mx/img/logo-bajos.png" />
+    <meta property="og:site_name" content="Microprocesamientos | Servicios de impresion y copiadoras en Acapulco Guerrero" />
+    <meta property="og:description" content="Somos una compañía mexicana con más de 35 años de experiencia en Acapulco, ofrecemos una excelente marca de impresoras de la mas alta calidad,vendemos consumibles y accesorios.Servicio y mantenimiento a copiadoras según tus necesidades."/>
+
+
 
   <!-- Favicons -->
   <link href="img/favicon.ico" rel="icon">
@@ -44,6 +46,18 @@
   <link rel="stylesheet" href="https://cdn.lineicons.com/1.0.1/LineIcons.min.css">
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139710045-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139710045-1');
+</script>
+
 </head>
 
 <body id="body">
